@@ -12,7 +12,4 @@ Hey! I'm Love Singh 👋<br><br>🎓 B.Tech CSE (AI & ML) Student  <br>🤖 Aspi
 ![](https://streak-stats.demolab.com/?user=Lovesingh0007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lovesingh0007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Lovesingh0007&icon=6&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
